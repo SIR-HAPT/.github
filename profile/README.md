@@ -4,7 +4,7 @@
 
 SIR-HAPT es una herramienta terapéutica para rehabilitación física de miembro superior que integra realidad mixta (Meta Quest 3), retroalimentación háptica (bHaptics TactGlove DK2 y Tactosy for Hands) y un serious game desarrollado en Unity/C# con mecánicas de trayectoria en spline. El sistema incluye además una aplicación de escritorio para la gestión terapéutica desarrollada en Python con KivyMD, respaldada por Firebase Firestore y Authentication.
 
-El sistema fue realizado en colaboración con el grupo **Human Robotics (HuRo Lab)** de la Universidad de Alicante.
+El sistema fue realizado en colaboración con el grupo **Human Robotics (HuRo)** de la Universidad de Alicante.
 
 Proyecto de Evaluación Final — Licenciatura en Ingeniería Biomédica  
 **Universidad de Monterrey (UDEM)** · Vicerrectoría de Ciencias de la Salud
