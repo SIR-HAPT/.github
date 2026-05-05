@@ -1,6 +1,6 @@
 # SIR-HAPT
 
-**Sistema Inmersivo con Retroalimentación Háptica para Terapia**
+**Sistema Inmersivo de Rehabilitación con Retroalimentación Háptica**
 
 SIR-HAPT es una herramienta terapéutica para rehabilitación física de miembro superior que integra realidad mixta (Meta Quest 3), retroalimentación háptica (bHaptics TactGlove DK2 y Tactosy for Hands) y un serious game desarrollado en Unity/C# con mecánicas de trayectoria en spline. El sistema incluye además una aplicación de escritorio para la gestión terapéutica desarrollada en Python con KivyMD, respaldada por Firebase Firestore y Authentication.
 
