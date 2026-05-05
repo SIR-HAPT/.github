@@ -15,7 +15,7 @@ Proyecto de Evaluación Final — Licenciatura en Ingeniería Biomédica
 
 | Componente | Tecnología | Repositorio |
 |---|---|---|
-| Serious game de realidad mixta | Unity / C# / Meta Quest 3 / bHaptics SDK2 / Firebase | [SIR-HAPT_PEF](https://github.com/SIR-HAPT/SIR-HAPT_PEF) |
+| Serious game de realidad mixta | Unity / C# / Meta Quest 3 / bHaptics SDK2 / Firebase | [SIR-HAPT_PEF](https://github.com/SIR-HAPT/SIR-HAPT-SG_PEFII) |
 | Aplicación de gestión terapéutica | Python / KivyMD / Firebase Firestore & Authentication | [SIR-HAPT_App_PEFII](https://github.com/SIR-HAPT/SIR-HAPT_App_PEFII) |
 
 ---
